@@ -6,7 +6,7 @@
 * **Conference**: Proceedings of the 2023 ACM International Conference on Multimedia Retrieval (ICMR 2023)
 * **More details**: [[arXiv]](https://arxiv.org/pdf/2208.10046) | [[homepage]](https://kyonhuang.top/publication/reference-limited-CZSL)
 
-**News**: We are in the process of cleaning up the source code and datasets. As I am currently away from university on weekdays, we hope to complete these tasks within a few weeks.
+**News**: We are in the process of cleaning up the source code and datasets. As I am currently away from university on weekdays, we hope to complete these tasks within a few weeks. For any questions, please contact huangsiteng[AT]westlake.edu.cn.
 
 ## Overview
 
