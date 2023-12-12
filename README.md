@@ -8,6 +8,14 @@
 
 **News**: We are in the process of cleaning up the source code and datasets. As I am currently away from university on weekdays, we hope to complete these tasks within a few weeks. For any questions, please contact huangsiteng[AT]westlake.edu.cn.
 
+## Datasets
+
+[Google Drive](https://drive.google.com/drive/folders/1zaNu4ay1ZiRstdFqk1S9hdwdi58YO1iF?usp=sharing)
+
+## Running
+
+In progress
+
 ## Overview
 
 * We introduce a new problem named **reference-limited compositional zero-shot learning (RL-CZSL)**, where given only a few samples of limited compositions, the model is required to generalize to recognize unseen compositions. This offers a more realistic and challenging environment for evaluating compositional learners.
@@ -21,10 +29,6 @@
 * We propose a novel method, **Meta Compositional Graph Learner (MetaCGL)**, for the challenging RL-CZSL problem. Experimental results show that MetaCGL consistently outperforms popular baselines on recognizing unseen compositions. 
 
 <div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://kyonhuang.top/files/RLCZSL/RLCZSL-main-results.png" /></div>
-
-## Datasets
-
-[Google Drive](https://drive.google.com/drive/folders/1zaNu4ay1ZiRstdFqk1S9hdwdi58YO1iF?usp=sharing)
 
 ## Citation
 
